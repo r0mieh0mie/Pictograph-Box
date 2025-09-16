@@ -7,6 +7,10 @@ I built a life size model of the pictograph box from wood and 3D-printed parts.
 # Here's a list of bash commands for repositories/programs that might be needed ('cause I did):
 you have to install some python addons and use python3.
 
+make a folder with all files and in that make another folder called "1Album". your photos will be saved here.
+
+you have to install some python addons and use python3.
+
 pip install numpy
 pip install opencv-python
 
